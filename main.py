@@ -38,7 +38,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-TOKEN = "8725460175:AAGKc1m4rLo_wajEXAi06GKic4UA0rGqt8k"
+TOKEN = "8731427214:AAGounZ1AVwxmL-HXGyBiNPtjY97hRJd8CY"
 TWELVE_KEY = "dfbecf637ca6480088d2b584eeaa2914"
 DB_NAME = "xauusd_ai.db"
 MODEL_FILE = "xauusd_model.pkl"
