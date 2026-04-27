@@ -1,0 +1,11 @@
+pandas
+numpy
+joblib
+requests
+feedparser
+textblob
+scikit-learn
+scipy
+python-telegram-bot
+beautifulsoup4
+matplotlib
