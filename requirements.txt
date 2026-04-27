@@ -6,6 +6,6 @@ feedparser
 textblob
 scikit-learn
 scipy
-python-telegram-bot
+python-telegram-bot==22.5
 beautifulsoup4
 matplotlib
