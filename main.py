@@ -39,7 +39,7 @@ logger = logging.getLogger(__name__)
 
 
 TOKEN = "8731427214:AAGounZ1AVwxmL-HXGyBiNPtjY97hRJd8CY"
-TWELVE_KEY = "dfbecf637ca6480088d2b584eeaa2914"
+TWELVE_KEY = "ca1acbf0cedb4488b130c59252891c5e"
 DB_NAME = "xauusd_ai.db"
 MODEL_FILE = "xauusd_model.pkl"
 REGIME_FILE = "market_regime.pkl"
